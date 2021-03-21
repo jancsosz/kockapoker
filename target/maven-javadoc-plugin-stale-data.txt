@@ -1,0 +1,50 @@
+/home/janos/.sdkman/candidates/java/current/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-private
+-sourcepath
+'/mnt/c/Users/geszt/IdeaProjects/kockapoker/src/main/java:/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'kockapoker 1.0-SNAPSHOT API'
+-link
+'https://javadoc.io/doc/com.fasterxml.jackson.core/jackson-databind/2.12.1'
+-use
+-version
+-windowtitle
+'kockapoker 1.0-SNAPSHOT API'
+jatek
+jatek
+jatek
+jatek
+jatek
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/src/main/java = 1616348410288
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/generated-sources/annotations = 1616351238104
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/allclasses-index.html = 1616351652948
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/allpackages-index.html = 1616351652969
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/constant-values.html = 1616351652626
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/deprecated-list.html = 1616351652834
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/element-list = 1616351652578
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/help-doc.html = 1616351653007
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/index-all.html = 1616351652920
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/index.html = 1616351652985
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/jquery-ui.overrides.css = 1616351653289
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/member-search-index.js = 1616351652906
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/module-search-index.js = 1616351652899
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/overview-tree.html = 1616351652805
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/package-search-index.js = 1616351652902
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/script.js = 1616351653045
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/search.js = 1616351653071
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/stylesheet.css = 1616351653026
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/tag-search-index.js = 1616351652916
+/mnt/c/Users/geszt/IdeaProjects/kockapoker/target/site/apidocs/type-search-index.js = 1616351652903
